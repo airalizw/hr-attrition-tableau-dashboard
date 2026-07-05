@@ -1,7 +1,7 @@
 # HR Employee Attrition Dashboard — Tableau
 
 ## Overview
-This project analyzes employee attrition data from IBM's HR Analytics dataset using Tableau Public. I built an interactive dashboard to visualize key drivers of employee turnover across departments, job roles, overtime status and job levels.
+This is one of my self taught data projects! I built this dashboard in Tableau Public to explore why employees are leaving companies using IBM's HR Analytics dataset. I was genuinely curious to see if the patterns I found in Excel would show up visually in Tableau and spoiler alert they absolutely did.
 
 ## Tools Used
 Tableau Public
@@ -19,11 +19,9 @@ IBM HR Analytics Employee Attrition Dataset
 ## Key Findings
 - Overall attrition rate is 16%
 - Sales department has the highest attrition at 21%
-- Sales Representative role has 33 out of 83 employees leaving
-- 127 overtime workers left compared to significantly fewer non overtime workers
-- Job Level 1 has the highest attrition with 143 out of 543 entry level employees leaving
+- Sales Representatives had 33 out of 83 employees leave which is alarming
+- Overtime workers are leaving at a significantly higher rate than non overtime workers
+- Entry level Job Level 1 employees are leaving the most with 143 out of 543 gone
 
-## Dashboard Features
-- Four interactive charts in a clean 2x2 grid layout
-- Color coded visuals showing Yes and No attrition clearly
-- Labels on each chart for immediate readability
+## What I Learned
+Building this dashboard taught me how to connect raw data in Tableau, create multiple chart types and arrange everything into a clean dashboard layout. I also learned that how you visualize data matters just as much as the data itself.
